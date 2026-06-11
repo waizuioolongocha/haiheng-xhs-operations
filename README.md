@@ -29,7 +29,7 @@
 
 | 工具 | 用途 | 链接 |
 |------|------|------|
-| AntBrowser | 多账号批量管理 | [GitHub](https://github.com/Jamailar/AntBrowser) |
+| AntBrowser | 多账号批量管理 | [GitHub](https://github.com/black-ant/Ant-Browser) |
 | RedBox | 对标账号笔记采集 | [GitHub](https://github.com/Jamailar/RedBox) |
 | Blogger Distiller | 博主内容蒸馏+AI改写 | [GitHub](https://github.com/otter1101/blogger-distiller) |
 

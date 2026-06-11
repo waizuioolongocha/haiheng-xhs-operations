@@ -4,7 +4,7 @@
 
 **AntBrowser** 是一款开源的多账号浏览器管理工具，专门用于小红书等多平台多账号运营场景。
 
-**GitHub 地址**：https://github.com/Jamailar/AntBrowser
+**GitHub 地址**：https://github.com/black-ant/Ant-Browser
 
 ### 核心功能
 - 多账号独立浏览器环境
@@ -20,7 +20,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Jamailar/AntBrowser.git
+git clone https://github.com/black-ant/Ant-Browser.git
 
 # 安装依赖
 cd AntBrowser

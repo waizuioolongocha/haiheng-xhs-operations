@@ -4,7 +4,7 @@
 
 | 工具 | 用途 | GitHub |
 |------|------|--------|
-| AntBrowser | 多账号浏览器管理 | [Jamailar/AntBrowser](https://github.com/Jamailar/AntBrowser) |
+| AntBrowser | 多账号浏览器管理 | [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) |
 | RedBox | 小红书数据采集 | [Jamailar/RedBox](https://github.com/Jamailar/RedBox) |
 | Blogger Distiller | 博主内容蒸馏+AI改写 | [otter1101/blogger-distiller](https://github.com/otter1101/blogger-distiller) |
 
